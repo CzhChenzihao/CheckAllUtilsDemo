@@ -23,3 +23,4 @@
 | 判断字符串是否以指定内容开头|startWithMytext(String mytext, String begin) | 第一个参数为需要判断的字符串，第二个参数为指定的内容|
 | 判断字符串是否以指定内容结尾|endWithMytext(String mytext, String end)| 第一个参数为需要判断的字符串，第二个参数为指定的内容|
 | 判断字符串中是否含有指定内容|hasMytext(String string, String mytext)| 第一个参数为需要判断的字符串，第二个参数为指定的内容|
+| 判断身份证是否正确|IDCardValidate(String IDStr)| 有效：返回"" 无效：返回String信息|
